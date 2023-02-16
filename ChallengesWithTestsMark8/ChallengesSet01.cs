@@ -32,6 +32,7 @@ namespace ChallengesWithTestsMark8
             {
                 return number1;
             }
+            return 0;
         }
 
         public long Multiply(long factor1, long factor2)
