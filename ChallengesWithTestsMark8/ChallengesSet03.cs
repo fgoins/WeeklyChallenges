@@ -85,7 +85,7 @@ namespace ChallengesWithTestsMark8
 
         public int LastMinusFirst(int[] nums)
         {
-           return nums[^1] - nums[0] //  nums[^1] returns the last interger in the array
+            return nums[^1] - nums[0]; //  nums[^1] returns the last interger in the array
         }
 
         public int[] GetOddsBelow100(int[] numbers )
