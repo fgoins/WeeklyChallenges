@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj": {}
+    "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj": {
+    "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
         "projectName": "ChallengesWithTestsMark8.Tests",
-        "projectPath": "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
-        "packagesPath": "C:\\Users\\faith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\obj\\",
+        "projectPath": "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+        "packagesPath": "C:\\Users\\Faithtorian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\faith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Faithtorian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
-                "projectPath": "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj"
+              "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+                "projectPath": "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj"
               }
             }
           }
@@ -73,21 +73,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+    "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
-        "packagesPath": "C:\\Users\\faith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faith\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
+        "projectPath": "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "packagesPath": "C:\\Users\\Faithtorian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faithtorian\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\faith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Faithtorian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -128,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
